@@ -42,6 +42,14 @@ I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems end to end a
 **Limits:** one model, one task and one search engine. An LLM judge was checked against a second model, not humans. Live search results drift over time.<br>
 [Code](https://github.com/anchalrajput25/tool-utility-reliability) · [Report (PDF)](https://github.com/anchalrajput25/tool-utility-reliability/blob/main/report/Report_ToolUtility.pdf) · [Results](https://github.com/anchalrajput25/tool-utility-reliability/tree/main/results)
 
+## 🏆 Achievements
+
+<img src="assets/card-sih.svg" width="100%" alt="Smart India Hackathon 2025 finalist: Disaster Response Drone System (SIH25047). Role: AI/ML Engineer on YOLO-based perception, NavIC/GPS positioning, telemetry monitoring and a master-worker multi-drone architecture."/>
+
+**Problem statement (SIH25047):** a drone-based system to deliver medical supplies and communication devices to remote or disaster-hit areas, such as floods or earthquakes. Theme: Robotics and Drones / Disaster Management.<br>
+**Key requirements:** payload of at least 5 kg; AI for real-time navigation and obstacle avoidance; a companion mobile app for disaster teams to coordinate deliveries, track live status and watch video feeds; automated or semi-autonomous missions (ArduPilot, Mission Planner or QGroundControl) with manual override.<br>
+**My role:** AI/ML Engineer. I worked on AI-driven perception, drone coordination and real-time operational intelligence for an offline-capable disaster-response system: YOLO-based object detection, NavIC/GPS positioning and telemetry-driven monitoring within a master–worker multi-drone architecture for coordinated mission dispatch.
+
 ## 🛠️ Tech stack
 
 <img src="assets/tech-stack.svg" width="100%" alt="Technical skills. Programming and data: Python, SQL, NumPy, Pandas. Machine learning: Scikit-learn, EDA, model evaluation. Deep learning: ANN, CNN, RNN, LSTM, Transformers, PyTorch. Generative AI: LLMs, prompt engineering, Hugging Face, LLM API integration. RAG and retrieval: advanced RAG, hybrid search, reranking, embeddings, vector databases. AI frameworks: LangChain, LangGraph, AI agents, MCP. Backend and databases: FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Chroma, Pinecone. LLM evaluation and reliability: LLM evaluation, guardrails, Langfuse. Tools and deployment: Git, GitHub, Docker, Streamlit."/>
