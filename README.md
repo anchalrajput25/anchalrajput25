@@ -23,11 +23,11 @@ To me, an AI system isn't finished when it works in a demo. It's finished when i
 
 ## 🚀 Featured projects
 
-<a href="https://github.com/anchalrajput25/RootVanta"><img src="assets/card-rootvanta.svg" width="100%" alt="Rootvanta: AI on-call agent with verified fixes. 0% false-success rate."/></a>
+<a href="https://github.com/anchalrajput25/RootVanta"><img src="assets/card-rootvanta.svg" width="100%" alt="Rootvanta: AI on-call engineer that finds, fixes and verifies production incidents, with auto-rollback."/></a>
 
-<a href="https://insight-x-pied.vercel.app"><img src="assets/card-insightx.svg" width="100%" alt="InsightX: plain English to safe SQL. 92.6% execution accuracy. Live demo."/></a>
+<a href="https://insight-x-pied.vercel.app"><img src="assets/card-insightx.svg" width="100%" alt="InsightX: AI data analyst that turns plain English into safe SQL with a trust score. Live demo."/></a>
 
-<a href="https://github.com/anchalrajput25/tool-utility-reliability"><img src="assets/card-research.svg" width="100%" alt="Research: probe AUROC 0.60 to 0.75 after search."/></a>
+<a href="https://github.com/anchalrajput25/tool-utility-reliability"><img src="assets/card-research.svg" width="100%" alt="Research: do LLMs know when a tool call helped?"/></a>
 
 <p align="center">
 <a href="https://github.com/anchalrajput25/RootVanta">Rootvanta code</a> ·
