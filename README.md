@@ -44,7 +44,7 @@ I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems end to end a
 
 ## 🛠️ Tech stack
 
-<img src="assets/tech-stack.svg" width="100%" alt="Tech stack. Agents and LLMs: LangGraph, LangChain, LLM APIs, tool calling, prompting. Retrieval: hybrid search, BM25, embeddings, rank fusion. Evaluation and safety: LLM evals, guardrails, tracing, confidence intervals. ML and deep learning: PyTorch, Transformers, Hugging Face, scikit-learn. Backend and data: Python, FastAPI, PostgreSQL, SQLAlchemy, sqlglot. Ship and deploy: Docker, Kubernetes, Helm, Argo CD, Next.js, CI."/>
+<img src="assets/tech-stack.svg" width="100%" alt="Technical skills. Programming and data: Python, SQL, NumPy, Pandas. Machine learning: Scikit-learn, EDA, model evaluation. Deep learning: ANN, CNN, RNN, LSTM, Transformers, PyTorch. Generative AI: LLMs, prompt engineering, Hugging Face, LLM API integration. RAG and retrieval: advanced RAG, hybrid search, reranking, embeddings, vector databases. AI frameworks: LangChain, LangGraph, AI agents. Backend and databases: FastAPI, REST APIs, PostgreSQL, SQLAlchemy. LLM evaluation and reliability: LLM evaluation, guardrails, Langfuse. Tools and deployment: Git, GitHub, Docker, Streamlit."/>
 
 ## 🧭 How I work
 
@@ -52,15 +52,9 @@ I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems end to end a
 
 ## 🤝 Let's connect
 
-I'm looking for a team shipping LLM products where being right matters.
+I build AI systems that know when to act, when to verify, and when not to trust their own answers.
 
-| Area | What I'd bring |
-|:--|:--|
-| 🧩 **Prototype → product** | Turn a demo agent or RAG feature into a tested API with guardrails, tracing and a deploy pipeline |
-| 🗄️ **Data & SQL assistants** | Natural-language analytics with schema retrieval, safe read-only execution and verifiable answers |
-| 🚨 **Ops & reliability agents** | Incident investigation over metrics, logs and traces, with approvals and automatic undo |
-| 📏 **Evaluation** | Golden sets, failure analysis and regression checks so model or prompt changes don't break things silently |
-| 🤝 **Customer-facing builds (FDE)** | Sit with a team, understand their data and workflow, and ship the AI feature that fits it |
+Building reliable AI products or exploring AI engineering opportunities? Let’s connect.
 
 <a href="https://www.linkedin.com/in/aanchalaug25/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0b0f17?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="Connect on LinkedIn"/></a>
 <a href="mailto:aanchalaug25@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0b0f17?style=for-the-badge&logo=gmail&logoColor=fbbf24" alt="Send an email"/></a>
