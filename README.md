@@ -11,12 +11,11 @@
 
 > **Most AI demos end the moment the model answers. That's where my work begins.**
 
-I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems that check their own work before anyone has to trust them. Each project below ships with its own evaluation, its safety checks and a written list of what it can't do yet.
+I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems end to end and makes them prove they work: an incident-response agent that checks its fix against live metrics and **undoes it if recovery fails**, a text-to-SQL analyst that **declines what it can't answer**, and research on whether a model's hidden states show **when a tool call actually helped**.
 
-- 🤖 **LLM apps & agents:** multi-step LangGraph pipelines, tool calling, structured outputs
-- 🔎 **Retrieval:** hybrid search (BM25 + embeddings, rank fusion) for schema and context retrieval
-- 🧪 **Evaluation & guardrails:** golden test sets, confidence intervals, read-only SQL gates, approval policies
-- ⚙️ **Backend & deployment:** FastAPI, PostgreSQL, Docker, Helm and Argo CD, with CI on GitHub Actions
+- 🛠️ **End to end:** I scope, build and ship AI products: LangGraph agents with tool calling, hybrid retrieval (BM25 + embeddings), FastAPI and PostgreSQL backends and Next.js frontends, packaged with Docker and Helm, deployed with Argo CD and tested in CI
+- 🛡️ **Reliability built in:** read-only SQL gates, approval policies, evidence-cited LLM outputs, and benchmarks reported with sample sizes and confidence intervals
+- 🔭 **Building now:** Rootvanta, an incident-response agent that investigates alerts across metrics, logs and traces, proposes a guarded fix and verifies the recovery
 - 🎯 **Open to:** AI Engineer · GenAI Engineer · LLM Engineer · Backend Developer · Forward Deployed Engineer (FDE), internship or full-time
 - 🎓 **Education:** B.Tech in Computer Science and Engineering, SRM University, Sonipat, Haryana · Class of 2027
 
@@ -49,11 +48,19 @@ I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems that check t
 
 ## 🧭 How I work
 
-<img src="assets/principles.svg" width="100%" alt="How I work: evaluate first, fail safe, honest about limits."/>
+<img src="assets/principles.svg" width="100%" alt="How I work, end to end: 1. Scope it: define success and failure first with golden sets and risky inputs. 2. Build it: LangGraph agents and tools, hybrid retrieval, FastAPI, PostgreSQL, Next.js. 3. Ship it safely: read-only gates, approvals and undo; Docker, Helm, Argo CD, CI. 4. Measure and iterate: report results with n and CIs, trace every step, fix the failures, re-run."/>
 
 ## 🤝 Let's connect
 
-Building an AI product, taking an LLM feature from prototype to production, or hiring for AI, GenAI, backend or forward-deployed roles? I'd be glad to talk.
+I'm looking for a team shipping LLM products where being right matters.
+
+| Area | What I'd bring |
+|:--|:--|
+| 🧩 **Prototype → product** | Turn a demo agent or RAG feature into a tested API with guardrails, tracing and a deploy pipeline |
+| 🗄️ **Data & SQL assistants** | Natural-language analytics with schema retrieval, safe read-only execution and verifiable answers |
+| 🚨 **Ops & reliability agents** | Incident investigation over metrics, logs and traces, with approvals and automatic undo |
+| 📏 **Evaluation** | Golden sets, failure analysis and regression checks so model or prompt changes don't break things silently |
+| 🤝 **Customer-facing builds (FDE)** | Sit with a team, understand their data and workflow, and ship the AI feature that fits it |
 
 <a href="https://www.linkedin.com/in/aanchalaug25/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0b0f17?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="Connect on LinkedIn"/></a>
 <a href="mailto:aanchalaug25@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0b0f17?style=for-the-badge&logo=gmail&logoColor=fbbf24" alt="Send an email"/></a>
