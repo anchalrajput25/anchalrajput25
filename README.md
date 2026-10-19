@@ -16,10 +16,10 @@ I'm **Anchal Singh Parihar**, an AI engineer who builds LLM systems that check t
 
 To me, an AI system isn't finished when it works in a demo. It's finished when it can show **how confident it is, why, and what it does when it's wrong**.
 
-- 🔭 **Building** Rootvanta, an AI on-call engineer that verifies every fix against live metrics
-- 🧪 **Deep into** LLM evaluation, guardrails, advanced RAG and agent reliability
-- 🎯 **Open to** AI / ML Engineer, LLM Engineer and Applied AI roles (internship or full-time)
-- 🎓 **Studying at** SRM University, Sonipat
+- 🛠️ **End to end:** I design, build, ship and run AI products: RAG pipelines and multi-step agents, LLM-backed APIs on FastAPI and PostgreSQL, containerised with Docker, deployed to Kubernetes, and watched in production with evals, guardrails and Langfuse tracing
+- 🔭 **Building now:** Rootvanta, an AI on-call engineer that diagnoses production incidents, applies the fix, verifies it against live metrics and rolls back on its own if the fix didn't work
+- 🎯 **Open to:** AI Engineer · GenAI Engineer · ML / LLM Engineer · Backend Developer · Forward Deployed Engineer (FDE), internship or full-time
+- 🎓 **Education:** B.Tech in Computer Science and Engineering, SRM University, Sonipat, Haryana · Class of 2027
 
 ## 🚀 Featured projects
 
@@ -46,7 +46,7 @@ To me, an AI system isn't finished when it works in a demo. It's finished when i
 
 ## 🤝 Let's connect
 
-I'm always happy to talk about LLM evaluation, RAG, AI agents or a role on your team.
+Building an AI product, taking an LLM feature from prototype to production, or hiring for AI, GenAI, backend or forward-deployed roles? I'd love to talk, whether it's RAG, agents, LLM backends, deployment or a role on your team.
 
 <a href="https://www.linkedin.com/in/aanchalaug25/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0b0f17?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="Connect on LinkedIn"/></a>
 <a href="mailto:aanchalaug25@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0b0f17?style=for-the-badge&logo=gmail&logoColor=fbbf24" alt="Send an email"/></a>
